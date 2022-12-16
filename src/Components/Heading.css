@@ -1,0 +1,13 @@
+.hover-text{
+    font-size: 35px;
+    color: white;
+   letter-spacing: 0.1ch;
+}
+
+.div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* padding-top: 30%; */
+}
